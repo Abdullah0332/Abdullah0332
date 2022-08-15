@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan</h1>
-<h3 align="center">A Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/abdullah-khan-bab278198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,8 +13,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61ddff)
-![Nestjs](https://img.shields.io/badge/-Nest-black?style=for-the-badge&logo=nest&logoColor=ff2144)
-![AWS](https://img.shields.io/badge/-aws-black?style=for-the-badge&logo=aws)
+![Nestjs](https://img.shields.io/badge/-Nest%20JS-black?style=for-the-badge&logo=nestjs)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=Docker)
 <br />
