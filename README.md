@@ -10,7 +10,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" />
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 </p>
 
 
