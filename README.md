@@ -8,6 +8,12 @@
 </p>
 <br />
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" alt="Top Langs" />
+</p>
+
+
 ## Tech I work with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
