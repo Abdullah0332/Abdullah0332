@@ -5,6 +5,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/abdullah-khan-bab278198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/Abdullah0332"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abdullah.khan10032@gmail.com?subject=Hello%20Lucifer,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://leetcode.com/Abdullah0332/"><img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
 
@@ -12,7 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&&theme=radical" alt="Top Langs" />
 </p>
-
 
 ## Tech I work with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
