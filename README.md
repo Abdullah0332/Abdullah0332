@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/abdullah0332/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,9 @@
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" />
+  [![Top Langs]()]
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&&theme=radical" alt="Top Langs" />
 </p>
 
