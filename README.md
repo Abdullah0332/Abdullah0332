@@ -8,6 +8,14 @@
 </p>
 <br />
 
+**About me**
+
+- ❤️ I love writing JavaScript, TypeScript and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](mailto:abdullah.khan10032@gmail.com)
+
+- Look at my Portfolio [Portfolio](https://codewithabdullah.vercel.app/)
+
 <p align="center" display="flex">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Abdullah0332&theme=dark&border_radius=4.4&card_width=350" alt="GitHub Streak" />
   
@@ -89,7 +97,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-## About Me
- + Full-Stack Developer
- + [Portfolio](https://codewithabdullah.vercel.app/)
