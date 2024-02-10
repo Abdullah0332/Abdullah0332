@@ -10,9 +10,12 @@
 
 <p align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0332&show_icons=true&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Lucifer's github stats" /> -->
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah0332&layout=compact&langs_count=8&card_width=320" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&&theme=radical" alt="Top Langs" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Abdullah0332&theme=dark&border_radius=4.4" alt="GitHub Streak" /></a>
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah0332&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Abdullah Khan github stats"/>
+
+ <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0332&&theme=radical" alt="Top Langs" />-->
 </p>
 
 ## Tech I work with
